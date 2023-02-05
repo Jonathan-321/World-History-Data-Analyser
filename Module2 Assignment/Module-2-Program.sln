@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module-2-Program", "Module-2-Program.vcxproj", "{1A2890DB-8289-4D1D-849A-14C8BBA9B92D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "World-History-Data Analyser", "Module-2-Program.vcxproj", "{1A2890DB-8289-4D1D-849A-14C8BBA9B92D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
